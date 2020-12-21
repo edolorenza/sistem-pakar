@@ -3,8 +3,6 @@
 Sistem Pakar Diagnosa Kerusakan Smartphone Android menggunakan metode forward chaining
  <br>
 
-![MVVM](Documentation/mvvm.png)
->MVVM diagram made by yours truly
 
 ## How to  instsall
 
